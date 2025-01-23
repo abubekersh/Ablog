@@ -35,49 +35,6 @@ A simple and user-friendly blog website built using Laravel. This application al
    ```bash
    git clone https://github.com/abubekersh/blog-website.git
    cd blog-website
-
-Here’s the README in proper Markdown format. You can copy and paste it directly into your README.md file:
-
-markdown
-Copy
-Edit
-# **Blog Website**
-
-## **Description**  
-A simple and user-friendly blog website built using Laravel. This application allows users to register, log in, and manage blog posts, providing basic CRUD (Create, Read, Update, Delete) functionality for posts.
-
----
-
-## **Features**
-- User registration and login system.
-- Create, edit, delete, and view blog posts.
-- Responsive design using Blade templates.
-- Basic category management (optional).
-- Search functionality (optional).
-
----
-
-## **Technologies Used**
-- **Backend**: Laravel 10, PHP 8.2
-- **Frontend**: Blade templates, HTML, CSS
-- **Database**: MySQL (or SQLite for development)
-- **Tools**: Composer, Artisan CLI
-
----
-
-## **Setup Instructions**
-
-### Prerequisites
-1. Install [PHP](https://www.php.net/downloads) (v8.2 or higher).  
-2. Install [Composer](https://getcomposer.org/).  
-3. Install [MySQL](https://dev.mysql.com/downloads/) or use an SQLite database.  
-4. Install [Node.js](https://nodejs.org/) for front-end dependencies.
-
-### Installation
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/abubekersh/blog-website.git
-   cd blog-website
 2. Install dependencies:
 	```bash
 	composer install
